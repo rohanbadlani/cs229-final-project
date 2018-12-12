@@ -1,4 +1,5 @@
-#Using News to Predict Stock Movements
+# Using News to Predict Stock Movements
+
 We apply the following 5 methods to predict stock price movements:
 
 1. Linear Regression
